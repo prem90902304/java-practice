@@ -1,5 +1,5 @@
 import java.util.*;
-public class multipication {
+public class multiplication {
     public static void main(String[] args){
         Scanner se=new Scanner(System.in);
         System.out.println("Enter the number:");
